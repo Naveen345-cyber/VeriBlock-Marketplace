@@ -1,0 +1,7 @@
+Store_ID,Category,Floor,Hourly_Footfall,Conversion_Rate,Peak_Traffic_Time
+S-101,Fashion,G,520,0.12,18:30
+S-102,Electronics,1,180,0.08,14:00
+S-103,Hypermarket,G,1450,0.45,11:30
+S-104,Dining,3,890,0.90,13:00
+S-105,Cinema,3,2100,0.95,21:45
+S-106,Fitness,4,120,0.60,07:00

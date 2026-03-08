@@ -1,0 +1,14 @@
+### Upload Mall Data for AI Audit and IPFS Storage
+POST http://localhost:8080/api/marketplace/upload
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="price"
+
+15.0
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="mall_analytics_v2.csv"
+Content-Type: text/csv
+
+< ./mall_analytics_v2.csv
+--WebAppBoundary--

@@ -1,0 +1,5 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Phone
+1,Male,19,15,39,9876543210
+2,Male,21,15,81,9998887776
+3,Female,20,16,6,8877665544
+4,Female,23,16,77,7766554433

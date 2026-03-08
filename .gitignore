@@ -1,0 +1,15 @@
+# Ignore compiled Java files
+backend/target/
+*.class
+
+# Ignore heavy frontend libraries
+frontend/node_modules/
+frontend/build/
+
+# Ignore Python environment
+venv/
+__pycache__/
+
+# Ignore IDE settings
+.vscode/
+.idea/
